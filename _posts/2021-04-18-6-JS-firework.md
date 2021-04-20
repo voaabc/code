@@ -34,4 +34,4 @@ tags: JS
 
 #### 在线欣赏
 
-http://xcode.show/x/firework.html
+[http://xcode.show/x/firework.html](http://xcode.show/x/firework.html)

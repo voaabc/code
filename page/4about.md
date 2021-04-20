@@ -15,9 +15,9 @@ type: page
 
 ## 联系我
 
+微信公众号
+![avatar](https://xcode.show/x//images/weixingongzhonghao.jpg)
 
-* Email: voaabc@outlook.com
-* Mobile: 
 
 
 

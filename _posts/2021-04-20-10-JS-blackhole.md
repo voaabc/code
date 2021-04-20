@@ -29,4 +29,4 @@ tags: JS
 
 #### 在线欣赏
 
-[http://xcode.show/x/blackhole.html](http://xcode.show/x/blackhole.html)
+[http://xcode.show/x/BlackHole.html](http://xcode.show/x/BlackHole.html)

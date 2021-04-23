@@ -1,0 +1,58 @@
+---
+layout: post
+title: JS代码实现风水罗盘
+categories: JS
+tags: JS
+---
+
+* content
+{:toc}
+
+
+
+
+#### 风水罗盘代码
+
+
+```html
+<!DOCTYPE HTML>
+<html>
+<head>
+<link href="css/compass-style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="compass-main">
+    <div class="compassdiv">
+        <div class="compass-c"></div>
+        <div class="compass w h">
+            <div class="compass-1 w h"></div>
+            <div class="compass-2 w h"></div>
+            <div class="compass-3 w h"></div>
+            <div class="compass-4 w h"></div>
+            <div class="compass-5 w h"></div>
+            <div class="compass-6 w h"></div>
+            <div class="compass-7 w h"></div>
+            <div class="compass-8 w h"></div>
+            <div class="compass-9 w h"></div>
+            <div class="compass-10 w h"></div>
+            <div class="compass-11 w h"></div>
+            <div class="compass-12 w h"></div>
+            <div class="compass-13 w h"></div>
+            <div class="compass-14 w h"></div>
+            <div class="compass-15 w h"></div>
+            <div class="compass-16 w h"></div>
+            <div class="compass-17 w h"></div>
+            <div class="compass-18 w h"></div>
+            <div class="compass-19 w h"></div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+
+```
+
+#### 在线欣赏
+
+[http://xcode.show/x/Compass.html](http://xcode.show/x/Compass.html)
